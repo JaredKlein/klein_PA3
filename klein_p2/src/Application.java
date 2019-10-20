@@ -22,7 +22,7 @@ public class Application {
         saver1.calculateMonthlyInterest();
         saver2.calculateMonthlyInterest();
 
-        System.out.println("Saver2 balance is: " + saver1.getBalance());
-        System.out.println("Saver3 balance is: " + saver2.getBalance());
+        System.out.println("Saver1 balance is: " + saver1.getBalance());
+        System.out.println("Saver2 balance is: " + saver2.getBalance());
     }
 }
